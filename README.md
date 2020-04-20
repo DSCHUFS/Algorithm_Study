@@ -15,7 +15,7 @@
 ### 이용방법
 
 > 1. 이 Repo에 대해서 Branch 또는 Fork를 한다.
-> 2. 해당하는 날짜 폴더에 **문제번호(이름)-이름** 형태의 파일을 생성하여 문제를 해결한다.
+> 2. 해당하는 날짜 폴더에 **문제번호_홍길동.cpp** 형태의 파일을 생성하여 문제를 해결한다.
 > 3. 개인 레포에 커밋을 한 다음 **PR**을 날린다.
 
 
@@ -36,9 +36,31 @@
 
 ### 주제
 
-- 1주차: **BFS** 
+- 1주차(3/30): **BFS** 
   - [15686](https://www.acmicpc.net/problem/16236)
   - [2206](https://www.acmicpc.net/problem/2206)
   - [11403](https://www.acmicpc.net/problem/11403)
   - [1981](https://www.acmicpc.net/problem/1981)
+
+- 2주차(4/06): **DP**
+  - [1699](https://www.acmicpc.net/problem/1699)
+  - [2092](https://www.acmicpc.net/problem/2092)
+  - [9084](https://www.acmicpc.net/problem/9084)
+  - [9251](https://www.acmicpc.net/problem/9251)
+
+- 3주차(4/13): **Greedy**
+  - [1969](https://www.acmicpc.net/problem/1969)
+  - [2012](https://www.acmicpc.net/problem/2012)
+  - [2021](https://www.acmicpc.net/problem/2021)
+  - [2875](https://www.acmicpc.net/problem/2875)
+  - [1080](https://www.acmicpc.net/problem/1080)
+  - [2217](https://www.acmicpc.net/problem/2217)
+
+- 4주차(4/20): **BackTracking**
+  - [2580](https://www.acmicpc.net/problem/2580)
+  - [6603](https://www.acmicpc.net/problem/6603)
+  - [1941](https://www.acmicpc.net/problem/1941)
+  - [2023](https://www.acmicpc.net/problem/2023)
+  - [1759](https://www.acmicpc.net/problem/1759)
+  - [2549](https://www.acmicpc.net/problem/2549)
 
