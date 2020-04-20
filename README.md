@@ -43,10 +43,10 @@
   - [1981](https://www.acmicpc.net/problem/1981)
 
 - 2주차(4/06): **DP**
-  - 1699(집합의 개수)
-  - 2092(동전)
-  - 9084(제곱수의 합)
-  - 9251(LCS)
+  - [1699](https://www.acmicpc.net/problem/1699)
+  - [2092](https://www.acmicpc.net/problem/2092)
+  - [9084](https://www.acmicpc.net/problem/9084)
+  - [9251](https://www.acmicpc.net/problem/9251)
 
 - 3주차(4/13): **Greedy**
   - [1969](https://www.acmicpc.net/problem/1969)
