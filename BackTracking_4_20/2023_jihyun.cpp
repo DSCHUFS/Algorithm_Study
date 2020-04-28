@@ -7,6 +7,7 @@ int N;
 int odd[5] = {1, 3, 5, 7, 9};
 int tmp;
 
+//n이 소수인지 확인
 bool is_prime(int n){
     for(int i=2; i*i <= n; i++){
         if(n%i==0){
@@ -15,6 +16,7 @@ bool is_prime(int n){
     }
     return true;
 }
+
 
 void find_primes(int k,vector<int> v){
     if(k!=N){
