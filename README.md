@@ -34,7 +34,7 @@
 
 
 
-### 주제
+### 2020-1학기
 
 - 1주차(3/30): **BFS** 
   - [15686](https://www.acmicpc.net/problem/16236)
@@ -64,3 +64,11 @@
   - [1759](https://www.acmicpc.net/problem/1759)
   - [2549](https://www.acmicpc.net/problem/2549)
 
+### 2020-여름방학
+
+- 1주차(7/15): **DF**
+  - [11054](https://www.acmicpc.net/problem/11054)
+  - [1254](https://www.acmicpc.net/problem/1254)
+  - [2579](https://www.acmicpc.net/problem/2579)
+  - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+  - [타일장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
