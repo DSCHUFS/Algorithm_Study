@@ -1,4 +1,4 @@
-# 💻 DSC HUFS 2020-1학기 알고리즘 스터디 💻
+# 💻 DSC HUFS 알고리즘 스터디 💻
 
 
 
@@ -66,9 +66,16 @@
 
 ### 2020-여름방학
 
-- 1주차(7/15): **DF**
+- 1주차(7/15): **DP**
   - [11054](https://www.acmicpc.net/problem/11054)
   - [1254](https://www.acmicpc.net/problem/1254)
   - [2579](https://www.acmicpc.net/problem/2579)
   - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
   - [타일장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
+
+- 2주차(7/22) **BFS/DFS**
+  - [1707](https://www.acmicpc.net/problem/1707)
+  - [1325](https://www.acmicpc.net/problem/1325)
+  - [2468](https://www.acmicpc.net/problem/2468)
+  - [7562](https://www.acmicpc.net/problem/7562)
+  - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
